@@ -1,3 +1,16 @@
 # Table of contents
 
-* [docs](README.md)
+* [Introduction](README.md)
+* [Get Started](get-started.md)
+* [Tokenomics](tokenomics.md)
+* [Earn](earn.md)
+* [LP](lp.md)
+* [Lucky Drop](lucky-drop.md)
+* [NFT](nft.md)
+* [DAO](dao.md)
+* [FAQs](faqs.md)
+* [Transparency](transparency.md)
+* [Social media](social-media.md)
+* [Terms of Use](terms-of-use.md)
+* [Privacy Policy](privacy-policy.md)
+* [Media Kit](media-kit.md)
