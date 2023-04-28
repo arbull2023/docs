@@ -12,4 +12,4 @@ The first step of ArBULL is to distribute AIBULL fairly and in a decentralized w
 The total amount of claim fees will be used to add liquidity (AIBULL/ETH).
 {% endhint %}
 
-Unclaimed tokens will be used for future ecosystem incentives, early and long-term supporter incentives, and some tokens will be burned. Unclaimed tokens will be used for future ecosystem incentives, early and long-term supporter incentives, and some tokens will be burned.\
+Unclaimed tokens will be used for future ecosystem incentives, early and long-term supporter incentives, and some tokens will be burned. \
