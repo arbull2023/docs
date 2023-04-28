@@ -7,7 +7,6 @@
 * [LP](lp.md)
 * [Lucky Drop](lucky-drop.md)
 * [NFT](nft.md)
-* [DAO](dao.md)
 * [FAQs](faqs.md)
 * [Transparency](transparency.md)
 * [Social media](social-media.md)
